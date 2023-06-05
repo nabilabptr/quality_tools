@@ -1,2 +1,26 @@
-# quality_tools
-Tambah user di web quality tools ST2023
+# ADD USER QUALITY TOOLS
+
+**Pastikan sudah install [Node JS](https://nodejs.org/en/download/) di Laptop anda**
+
+1. Klik Download ZIP 
+<img src="downloadZIP_Screenshot.png" alt="Alt text" title="">
+
+2. Edit file `.env`.
+  	- SSO_USERNAME = isikan email
+  	- SSO_PASSWORD = isikan password
+3. Edit csv yang ada di folder [data](https://github.com/nabilabptr/quality_tools/tree/main/data), tinggal isi tanpa ubah nama kolom. Pastikan nama petugas sesuai dengan database sobat, kalo engga ya error.
+4. jalankan scriptnya
+	
+  install dulu packagenya
+  
+	```
+	npm install
+	```
+  
+  jalanin scriptnya
+  
+  ```
+  node index.js
+  ```
+
+**SEMANGAT**
