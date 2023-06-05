@@ -10,6 +10,7 @@
   	- SSO_PASSWORD = isikan password
 
 3. Edit csv yang ada di folder [data](https://github.com/nabilabptr/quality_tools/tree/main/data), tinggal isi tanpa ubah nama kolom. Pastikan nama petugas sesuai dengan database sobat, kalo engga ya error.
+	
 	username merupakan username SSO atau username email, contoh: nabila.bianca@bps.go.id atau nabila.bianca@gmail.com maka usernamenya nabila.bianca
 
 4. jalankan scriptnya menggunakan cmd di mana direktorinya adalah folder tempat script js disimpan
