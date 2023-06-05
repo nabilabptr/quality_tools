@@ -1,7 +1,5 @@
-status,username,password,nama,email,nip,nip_lama,satker,level
-mitra,yuspadiotuadjo28,ST2023,YUSPADIO TUADJO,yuspadiotuadjo28@gmail.com,,,Mitra BPS Kabupaten Kepulauan Sula,OPERATOR KABUPATEN/KOTA
-mitra,marlinlamoane6,ST2023,MARUN LA MOANE,marlinlamoane6@gmail.com,,,Mitra BPS Kabupaten Kepulauan Sula,OPERATOR KABUPATEN/KOTA
-organik,hasman.umakaapa,,,,198907062011011006,340055583,,PEMANTAU KABUPATEN/KOTA
-organik,irwandi,,,,198902032011011002,340055586,,PEMANTAU KABUPATEN/KOTA
-organik,jailan,,,,198612312011011018,340055587,,PEMANTAU KABUPATEN/KOTA
-organik,yassir,,,,198902132011011004,340055589,,PEMANTAU KABUPATEN/KOTA
+status,username,password,nama,email,satker,level
+mitra,mitra1,ST2023,MITRA 1,mitra1@gmail.com,Mitra BPS Kabupaten Kepulauan Sula,OPERATOR KABUPATEN/KOTA
+mitra,mitra2,ST2023,MITRA 2,mitra2@gmail.com,Mitra BPS Kabupaten Kepulauan Sula,OPERATOR KABUPATEN/KOTA
+organik,organik1,,,,,,,PEMANTAU KABUPATEN/KOTA
+organik,organik2,,,,,PEMANTAU KABUPATEN/KOTA
