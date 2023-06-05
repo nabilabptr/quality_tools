@@ -1,0 +1,25 @@
+{
+  "name": "sipmen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-pipe": "^6.0.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "inquire": "^0.4.8",
+    "inquirer": "^9.2.6",
+    "pino": "^8.7.0",
+    "pino-pretty": "^9.1.1",
+    "puppeteer": "^19.6.2",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.1/xlsx-0.19.1.tgz",
+    "yargs": "^17.6.2"
+  }
+}
